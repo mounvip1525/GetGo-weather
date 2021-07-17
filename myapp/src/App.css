@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+nav{
+  display:flex;
+  justify-content: flex-end;
+}
+nav a{
+  text-decoration: none;
+  color:black;
+  margin-right:2%;
+  margin-top:2%;
+}
+.selected{
+  border-bottom:2px solid black;
+}
